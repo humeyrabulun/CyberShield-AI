@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield AI",
+  "description": "Akıllı Siber Güvenlik Olay Bildirim ve Analiz Sistemi. Kurumsal siber olayların yapay zeka destekli analizi ve müdahale yönetimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
